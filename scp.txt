@@ -1,0 +1,1 @@
+scp mklau@mason.indiana.edu:/N/dc2/scratch/scahan/ddRAD1_fastq/03A.fq ./

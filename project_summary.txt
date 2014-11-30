@@ -1,0 +1,47 @@
+Proteomic network modeling.
+
+Response of Ants at Harvard Forest to Climate Change
+
+Project Summary:
+
+Experimental field studies are needed to understand the consequences
+of global climatic change for local community structure and associated
+ecosystem processes. We propose to use large open-top environmental
+chambers to simultaneously manipulate air and soil temperatures using
+a statistically powerful and cost-efficient response-surface
+(regression) design at two field sites situated in northern and
+southern temperate mixed hardwood forests in eastern North America
+(Harvard Forest in Massachusetts, Duke Forest in North Carolina). The
+proposed field manipulations will reveal the effects of temperature
+increases on the populations, communities, and associated ecosystem
+services of assemblages of ground-foraging ants. Ants are a model
+taxon for studying effects of global climatic change because they
+comprise the dominant fraction of animal biomass in many terrestrial
+communities and because they provide essential ecosystem services,
+including soil turnover, decomposition, and seed dispersal. The
+experiment is designed to test three predictions:
+
+- Projected atmospheric warming will lead to declines in ant species
+  abundances at the warmer, southern extent of their ranges in the
+  US. Conversely, projected atmospheric warming will lead to increases
+  in abundance or range extensions of ant species at the cooler,
+  northern extent of their ranges in the US.
+- Warming will change the relative abundance and composition of ant
+  communities, and will lead to the loss of ant biodiversity.
+- Warming will potentially diminish ecosystem processes and services
+  provided by ants, particularly with respect to the dispersal of
+  seeds.
+
+Twelve open-top chambers at each site which will each be exposed to
+one of four levels of air temperature increases, ranging from no
+change (ambient conditions) to 8 degrees C (commensurate with some
+IPCC climate model forecasts for the year 2100). The experiment will
+run for 3 consecutive years of continuous warming. The response
+variables measured will include ant activity, population densities and
+colony sizes of focal species, ant community diversity and species
+composition, and rates of seed dispersal and predation as mediated by
+ants. This study will provide an experimental test of the hypothesis
+that species at the northern and southern boundaries of their ranges
+will respond predictably to climatic change. In addition, this
+research will further establish ants as a model taxon for the study of
+climatic change.
